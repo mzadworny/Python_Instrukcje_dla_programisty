@@ -1,3 +1,1 @@
-#new project
-
 print("hello")
